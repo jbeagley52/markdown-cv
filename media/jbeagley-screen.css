@@ -167,6 +167,10 @@ p {
   width: 65%;
 }
 
+ul+p {
+  padding-top: 0.4em;
+}
+
 code {
   font: normal normal;
   /* font-size: 90%; */
@@ -185,13 +189,14 @@ ul {
   width: 65%;
   margin-bottom: 0em;
   /* margin-top: 1em; */
-  columns: 3;
+  /* columns: 3;
   -webkit-columns: 3;
-  -moz-columns: 3;
+  -moz-columns: 3; */
 }
 
 li {
   /* empty */
+  /* break-inside: avoid; */
 }
 
 li ul {
@@ -300,7 +305,7 @@ strong {
   width: 65%;
 }
 
-#technical/*
+/*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
-}*/;
+}*/
