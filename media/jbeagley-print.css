@@ -190,6 +190,7 @@ ul {
 
 li {
   /* empty */
+  break-inside: avoid;
 }
 
 li ul {
