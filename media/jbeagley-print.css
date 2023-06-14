@@ -156,12 +156,12 @@ body {
 p {
   position: relative;
   left: 28%;
-  margin-bottom: 0.4em;
+  margin-bottom: 0;
   margin-right: 0;
   width: 70%;
 }
 
-ul+p {
+ul + p {
   padding-top: 0.4em;
 }
 
