@@ -29,77 +29,68 @@ Highly skilled and results-driven Salesforce Developer with a proven track recor
 
 ## Experience
 
-**BAU Salesforce Developer** &ndash; e-Centric Innovations, `2023 to Present`
+**BAU Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
 
-Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment, focussing on maintaining and enhancing existing Salesforce applications. \
-Leveraged Apex and Flows to improve and automate critical business processes, resulting in increased efficiency and productivity. \
-Successfully resolved and managed over 400 tickets within a six-month period, surpassing the team average and providing timely solutions to complex issues. \
-Utilised Apex and Flows to implement bug fixes, minor enhancements, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps. \
-Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and other security-related configuration components to ensure data integrity and enforce proper access controls within the Salesforce platform. \
-Collaborated with cross-functional teams, including administrators, stakeholders, and end users, to gather requirements, design solutions, and ensure seamless integration with existing systems. \
-Created reports and dashboards to provide real-time insights into key performance metrics, enabling data-driven decision-making at various levels of the organisation. \
-Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency. \
-Successfully resolved and managed a high volume of user support tickets, promptly addressing issues and providing timely resolutions to maintain smooth business operations. \
-Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities. \
-Developed and maintained documentation for BAU processes, including bug tracking, change management, and system enhancements, ensuring comprehensive knowledge transfer and smooth handover during team transitions. \
-Earned over 100 Trailhead badges, including 5 superbadges, demonstrating a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices. \
-Completed various modules and projects related to Apex, Flows, LWC, Lightning Experience, data management, data models, and approval processes, showcasing a comprehensive understanding of the Salesforce ecosystem.
+- Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment, focussing on maintaining and enhancing existing Salesforce applications.
+- Leveraged Apex and Flows to improve and automate critical business processes, resulting in increased efficiency and productivity.
+- Successfully resolved and managed over 400 tickets within a six-month period, surpassing the team average and providing timely solutions to complex issues.
+- Utilised Apex and Flows to implement bug fixes, minor enhancements, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps.
+- Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and other security-related configuration components to ensure data integrity and enforce proper access controls within the Salesforce platform.
+- Collaborated with cross-functional teams, including administrators, stakeholders, and end users, to gather requirements, design solutions, and ensure seamless integration with existing systems.
+- Created reports and dashboards to provide real-time insights into key performance metrics, enabling data-driven decision-making at various levels of the organisation.
+- Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency.
+- Successfully resolved and managed a high volume of user support tickets, promptly addressing issues and providing timely resolutions to maintain smooth business operations.
+- Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities.
+- Developed and maintained documentation for BAU processes, including bug tracking, change management, and system enhancements, ensuring comprehensive knowledge transfer and smooth handover during team transitions.
+- Earned over 100 Trailhead badges, including 5 superbadges, demonstrating a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices.
+- Completed various modules and projects related to Apex, Flows, LWC, Lightning Experience, data management, data models, and approval processes, showcasing a comprehensive understanding of the Salesforce ecosystem.
 
 **ServiceNow NextGen Bootcamp Teaching Assistant** &ndash; e-Centric Innovations `2022 to 2023`
 
-Assisted in the development and delivery of ServiceNow NextGen training materials, including presentations, lab exercises, and quizzes \
-Collaborated with lead instructors to ensure that training programs were accurate and engaging \
-Facilitated discussions and provided support to students during training sessions \
-Contributed to the ongoing improvement of training programs \
-Demonstrated strong presentation and facilitation skills, as well as excellent written and verbal communication skills \
-Developed expertise in ServiceNow platform administration, including configuring and maintaining system properties, creating custom scripts, creating update sets, and implementing external source control (GitLab) \
-Acquired knowledge of application development, including client scripts, catalog scripts, business rules, and integrations using JavaScript, REST APIs, and Flow Designer \
-Gained experience in troubleshooting and resolving system issues and errors \
-Developed skills in using ServiceNow platform tools and features, such as Service Catalog, Service Portal, Studio, Mobile App Development, Virtual Agent, and Integration Hub \
-Improved understanding of ServiceNow best practices for building custom applications \
-Acquired ability to manage and maintain ServiceNow instances \
-Developed knowledge of ServiceNow IT Service Management (ITSM) processes, including incident management, problem management, and change management
+- Assisted in the development and delivery of ServiceNow NextGen training materials, including presentations, lab exercises, and quizzes.
+- Collaborated with lead instructors to ensure that training programs were accurate and engaging.
+- Facilitated discussions and provided support to students during training sessions.
+- Contributed to the ongoing improvement of training programs.
+- Demonstrated strong presentation and facilitation skills, as well as excellent written and verbal communication skills.
+- Developed expertise in ServiceNow platform administration, including configuring and maintaining system properties, creating custom scripts, creating update sets, and implementing external source control (GitLab).
+- Acquired knowledge of application development, including client scripts, catalog scripts, business rules, and integrations using JavaScript, REST APIs, and Flow Designer.
+- Gained experience in troubleshooting and resolving system issues and errors.
+- Developed skills in using ServiceNow platform tools and features, such as Service Catalog, Service Portal, Studio, Mobile App Development, Virtual Agent, and Integration Hub.
+- Improved understanding of ServiceNow best practices for building custom applications.
+- Acquired ability to manage and maintain ServiceNow instances.
+- Developed knowledge of ServiceNow IT Service Management (ITSM) processes, including incident management, problem management, and change management.
 
 <!-- **Sessional Translation Teacher** &ndash; RMIT University `2019 to 2022`
 
-Maintaining and updating course on LMS \
-Marking and providing constructive feedback \
-Liaising with course coordinators and students \
-Creating lesson plans and course content
+- Maintaining and updating course on LMS
+- Marking and providing constructive feedback
+- Liaising with course coordinators and students
+- Creating lesson plans and course content -->
 
 **Founder & Principal Translator** &ndash; Jonathan Beagley Language Services `2013 to 2021`
 
-General office duties (scanning, printing, postage) \
-Exceptional email and phone etiquette \
-Project & diary management \
-Liaising with agencies and clients \
-Document filing and archiving \
-Prioritising workload and meeting deadlines \
-Accounts receivable and general bookkeeping (Wave) \
-Processing invoices and purchase orders \
-B2B and B2C client prospection \
-Skilled in dispute resolution and problem solving \
-Emphasis on customer satisfaction and managing customer expectations \
-Expert proofreading and copyediting skills \
-Excellent written and verbal communication skills \
-Created a business from the ground up
+- Established a successful freelance translation business from scratch, operating for nearly 10 years, with a diverse client base and a strong reputation for delivering high-quality translations.
+- Developed and maintained long-term relationships with clients, ensuring repeat business and a steady stream of projects.
+- Managed end-to-end translation projects, including client communication, project scoping, resource allocation, translation, editing, and final delivery, ensuring timely and accurate completion.
+- Specialised in medical and technical translations, demonstrating subject matter expertise and consistently meeting client expectations for terminology accuracy and cultural nuances.
+- Implemented effective marketing strategies, including online presence, networking, and referrals, to continuously attract new clients and expand the business.
 
-**Branch Chair & Committee Member** &ndash; AUSIT `2016 to 2021`
+<!-- **Branch Chair & Committee Member** &ndash; AUSIT `2016 to 2021`
 
-Served as Victorian Branch Chair for 4 years \
-Supervised organisation of National Conference in 2019 as Co-Chair of Organising Committee \
-Facilitated monthly meetings for Victorian Branch \
-Liaised with National Council and committee members \
-Created and presented seminars and webinars on ethics, technology and small business \
-Brainstormed ideas for professional development seminars \
-Coordinated event and conference organisation
+- Served as Victorian Branch Chair for 4 years
+- Supervised organisation of National Conference in 2019 as Co-Chair of Organising Committee
+- Facilitated monthly meetings for Victorian Branch
+- Liaised with National Council and committee members
+- Created and presented seminars and webinars on ethics, technology and small business
+- Brainstormed ideas for professional development seminars
+- Coordinated event and conference organisation -->
 
-**Research Assistant** &ndash; Monash University `2015 to 2018`
+<!-- **Research Assistant** &ndash; Monash University `2015 to 2018`
 
-Drafted whitepaper with improvements to interpreter assessment in Australia \
-Conducted confidential interviews with various stakeholders \
-Quantitative data analysis and reporting (Excel) \
-Transcribed interviews -->
+- Drafted whitepaper with improvements to interpreter assessment in Australia
+- Conducted confidential interviews with various stakeholders
+- Quantitative data analysis and reporting (Excel)
+- Transcribed interviews -->
 
 ## Education
 
@@ -133,25 +124,21 @@ _Michigan State University_
 - Markdown
 - Regular Expressions
 
-### Software and Platforms
+### Salesforce
 
-#### Salesforce
-- Salesforce Development: Apex, Flows, Lightning Web Components (LWC), Visualforce
-- Salesforce Administration: Customisation, Configuration, Approval Processes
+- **Salesforce Development:** Apex, Flows, Lightning Web Components (LWC), Visualforce
+- **Salesforce Administration:** Customisation, Configuration, Approval Processes
+- **Data Management:** Data Migration, Data Cleansing, Data Loader, Data Modeling
 
-#### ServiceNow
-- ServiceNow: Scripting, Integration Hub, Flow Designer, IT Service Management, Configuration Management Database (CMDB), Application Development, Mobile App Development, Virtual Agent, Service Portal, UI Builder, Playbooks and Process Automation
-
-- Data Management: Data Migration, Data Cleansing, Data Loader, Data Modeling
-
-### Platforms and Tools
+### Other Platforms and Tools
 
 - AWS Cloud Fundamentals
+- ServiceNow
 - Linux System Administration
 - Git/Github/GitLab/Bitbucket
 - Jira
 
-### Libraries, Frameworks and Other Technologies
+### Libraries and Frameworks
 
 React, Node, Express, JSON, YAML, jQuery, Pandas, Numpy, NLTK, SpaCy, WordPress, Jekyll, Liquid, MQTT
 
@@ -167,13 +154,11 @@ Strong attention to detail
 
 ## Other Skills
 
-- Communication: Cross-functional Collaboration, Stakeholder Engagement, User Support, Written & Verbal Communication, Public speaking, Documentation
-- Project Management Methodologies: Agile/Scrum
-- Problem solving
-- Intercultural communication
-- Excellent written & verbal communication
-- Strong attention to detail
-- Research
+- **Communication:** Cross-functional Collaboration, Stakeholder Engagement, User Support, Written & Verbal Communication, Public Speaking, Documentation
+- **Project Management Methodologies:** Agile/Scrum
+- **Problem solving**
+- **Attention to detail**
+- **Continuous learning**
 
 ## Languages
 English (Native) | French | Spanish | Portuguese | Dutch
