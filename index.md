@@ -43,7 +43,7 @@ Successfully resolved and managed a high volume of user support tickets, promptl
 Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities. \
 Developed and maintained documentation for BAU processes, including bug tracking, change management, and system enhancements, ensuring comprehensive knowledge transfer and smooth handover during team transitions. \
 Earned over 100 Trailhead badges, including 5 superbadges, demonstrating a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices. \
-Completed various modules and projects related to Apex, Flows, LWC, Lightning Experience, data management, data models, and approval processes, showcasing a comprehensive understanding of the Salesforce ecosystem. \
+Completed various modules and projects related to Apex, Flows, LWC, Lightning Experience, data management, data models, and approval processes, showcasing a comprehensive understanding of the Salesforce ecosystem.
 
 **ServiceNow NextGen Bootcamp Teaching Assistant** &ndash; e-Centric Innovations `2022 to 2023`
 
@@ -60,7 +60,7 @@ Improved understanding of ServiceNow best practices for building custom applicat
 Acquired ability to manage and maintain ServiceNow instances \
 Developed knowledge of ServiceNow IT Service Management (ITSM) processes, including incident management, problem management, and change management
 
-**Sessional Translation Teacher** &ndash; RMIT University `2019 to 2022`
+<!-- **Sessional Translation Teacher** &ndash; RMIT University `2019 to 2022`
 
 Maintaining and updating course on LMS \
 Marking and providing constructive feedback \
@@ -94,7 +94,7 @@ Created and presented seminars and webinars on ethics, technology and small busi
 Brainstormed ideas for professional development seminars \
 Coordinated event and conference organisation
 
-<!-- **Research Assistant** &ndash; Monash University `2015 to 2018`
+**Research Assistant** &ndash; Monash University `2015 to 2018`
 
 Drafted whitepaper with improvements to interpreter assessment in Australia \
 Conducted confidential interviews with various stakeholders \
@@ -135,9 +135,11 @@ _Michigan State University_
 
 ### Software and Platforms
 
+#### Salesforce
 - Salesforce Development: Apex, Flows, Lightning Web Components (LWC), Visualforce
 - Salesforce Administration: Customisation, Configuration, Approval Processes
 
+#### ServiceNow
 - ServiceNow: Scripting, Integration Hub, Flow Designer, IT Service Management, Configuration Management Database (CMDB), Application Development, Mobile App Development, Virtual Agent, Service Portal, UI Builder, Playbooks and Process Automation
 
 - Data Management: Data Migration, Data Cleansing, Data Loader, Data Modeling
