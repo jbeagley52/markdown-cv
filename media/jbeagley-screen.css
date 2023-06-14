@@ -167,7 +167,7 @@ p {
   width: 65%;
 }
 
-ul+p {
+ul + p {
   padding-top: 0.4em;
 }
 
@@ -196,7 +196,7 @@ ul {
 
 li {
   /* empty */
-  /* break-inside: avoid; */
+  break-inside: avoid;
 }
 
 li ul {
