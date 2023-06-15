@@ -191,6 +191,8 @@ ul {
 li {
   /* empty */
   break-inside: avoid;
+  list-style-type: square;
+  margin-left: 1em;
 }
 
 li ul {
