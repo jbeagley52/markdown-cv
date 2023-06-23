@@ -25,6 +25,7 @@ servicenow: jbeagley0596191a
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{ page.linkedin }}/">{{ page.linkedin }}</a>
 |
 <i class="fa fa-graduation-cap"></i> <a href="https://trailblazer.me/id/{{ page.trailblazer }}/">Trailblazer</a>
+|
 <i class="fa fa-graduation-cap"></i> <a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user={{ page.servicenow }}">ServiceNow Now Learning</a>
 </div>
 
