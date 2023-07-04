@@ -127,6 +127,10 @@ _Michigan State University_
 - Markdown
 - Regular Expressions
 
+### Certifications
+- ServiceNow Certified Systems Administrator
+- ServiceNow Certified Application Developer
+
 ### Salesforce
 
 - **Salesforce Development:** Apex, Flows, Lightning Web Components (LWC), Visualforce
