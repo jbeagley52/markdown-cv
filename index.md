@@ -8,6 +8,7 @@ phone: +61 450 633 358
 github: jbeagley52
 linkedin: jonathanbeagley
 trailblazer: jbeagley33
+servicenow: jbeagley0596191a
 ---
 
 # {{ page.title }}
@@ -24,11 +25,13 @@ trailblazer: jbeagley33
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{ page.linkedin }}/">{{ page.linkedin }}</a>
 |
 <i class="fa fa-graduation-cap"></i> <a href="https://trailblazer.me/id/{{ page.trailblazer }}/">Trailblazer</a>
+|
+<i class="fa fa-graduation-cap"></i> <a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user={{ page.servicenow }}">ServiceNow Now Learning</a>
 </div>
 
 ## Summary
 
-Highly skilled and results-driven BAU Salesforce Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in Apex, Flows, and Lightning Web Components (LWC), along with a solid foundation in Git source control, Amazon Web Services, ServiceNow, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging Salesforce's capabilities and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
+Highly skilled and results-driven BAU Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in client-side scripting, business rules and Service Portal, along with a solid foundation in Git source control, Amazon Web Services, Salesforce, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging platform capabilities and integrations and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
 
 ## Experience
 
@@ -123,6 +126,10 @@ _Michigan State University_
 - PHP
 - Markdown
 - Regular Expressions
+
+### Certifications
+- ServiceNow Certified Systems Administrator
+- ServiceNow Certified Application Developer
 
 ### Salesforce
 
