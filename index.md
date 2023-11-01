@@ -31,11 +31,11 @@ servicenow: jbeagley0596191a
 
 ## Summary
 
-Highly skilled and results-driven BAU Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in client-side scripting, business rules and Service Portal, along with a solid foundation in Git source control, Amazon Web Services, Salesforce, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging platform capabilities and integrations and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
+Highly skilled and results-driven Salesforce Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in client-side scripting, business rules and Service Portal, along with a solid foundation in Git source control, Amazon Web Services, Salesforce, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging platform capabilities and integrations and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
 
 ## Experience
 
-**BAU Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
+**Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
 
 - Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment at the Victorian Department of Education, focussing on maintaining and enhancing existing Salesforce applications.
 - Successfully resolved and managed over 400 tickets within a six-month period out of over 1000 tickets for all L2 Salesforce Support, surpassing the team average and providing timely solutions to complex issues to maintain smooth business operations.
