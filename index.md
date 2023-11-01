@@ -128,22 +128,23 @@ _Michigan State University_
 - Regular Expressions
 
 ### Certifications
+- AWS Solutions Architect Associate
 - ServiceNow Certified Systems Administrator
 - ServiceNow Certified Application Developer
 
 ### Salesforce
 
-- **Salesforce Development:** Apex, Flows, Lightning Web Components (LWC), Visualforce
-- **Salesforce Administration:** Customisation, Configuration, Approval Processes
-- **Data Management:** Data Migration, Data Cleansing, Data Loader, Data Modeling
+- Apex, Flows, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
 
 ### Other Platforms and Tools
 
-- AWS Cloud Fundamentals
+- AWS
 - ServiceNow
 - Linux System Administration
 - Git/Github/GitLab/Bitbucket
 - Jira
+- Bitbucket Pipelines
+- CI/CD
 
 ### Libraries and Frameworks
 
