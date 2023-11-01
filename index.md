@@ -31,7 +31,7 @@ servicenow: jbeagley0596191a
 
 ## Summary
 
-Highly skilled and results-driven Salesforce Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in client-side scripting, business rules and Service Portal, along with a solid foundation in Git source control, Amazon Web Services, Salesforce, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging platform capabilities and integrations and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
+Highly skilled and results-driven Salesforce Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in Apex, Flows, and Lightning Web Components (LWC), along with a solid foundation in CI/CD, source control, Amazon Web Services, ServiceNow, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging platform capabilities and integrations and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
 
 ## Experience
 
