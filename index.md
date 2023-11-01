@@ -31,11 +31,11 @@ servicenow: jbeagley0596191a
 
 ## Summary
 
-Highly skilled and results-driven BAU Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in client-side scripting, business rules and Service Portal, along with a solid foundation in Git source control, Amazon Web Services, Salesforce, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging platform capabilities and integrations and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
+Highly skilled and results-driven Salesforce Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in Apex, Flows, and Lightning Web Components (LWC), along with a solid foundation in CI/CD, source control, Amazon Web Services, ServiceNow, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging platform capabilities and integrations and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
 
 ## Experience
 
-**BAU Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
+**Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
 
 - Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment at the Victorian Department of Education, focussing on maintaining and enhancing existing Salesforce applications.
 - Successfully resolved and managed over 400 tickets within a six-month period out of over 1000 tickets for all L2 Salesforce Support, surpassing the team average and providing timely solutions to complex issues to maintain smooth business operations.
@@ -46,7 +46,8 @@ Highly skilled and results-driven BAU Developer with a proven track record in op
 - Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency.
 - Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities.
 - Developed and maintained documentation for BAU processes, including bug tracking, change management, and system enhancements, ensuring comprehensive knowledge transfer and smooth handover during team transitions.
-- Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 100 Trailhead badges, including 5 superbadges, while completing various modules and projects encompassing Apex, Flows, LWC, Lightning Experience, data management, data models, and approval processes.
+- Represented BAU team in Salesforce Centre of Excellence meetings, spearheading implementation of release guidelines with CI/CD best practices.  
+- Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 100 Trailhead badges, including 12 superbadges, while completing various modules and projects encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, data management, data models, and approval processes.
 
 **ServiceNow NextGen Bootcamp Teaching Assistant** &ndash; e-Centric Innovations `2022 to 2023`
 
@@ -128,22 +129,23 @@ _Michigan State University_
 - Regular Expressions
 
 ### Certifications
+- AWS Solutions Architect Associate
 - ServiceNow Certified Systems Administrator
 - ServiceNow Certified Application Developer
 
 ### Salesforce
 
-- **Salesforce Development:** Apex, Flows, Lightning Web Components (LWC), Visualforce
-- **Salesforce Administration:** Customisation, Configuration, Approval Processes
-- **Data Management:** Data Migration, Data Cleansing, Data Loader, Data Modeling
+- Apex, Flows, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
 
 ### Other Platforms and Tools
 
-- AWS Cloud Fundamentals
+- AWS
 - ServiceNow
 - Linux System Administration
 - Git/Github/GitLab/Bitbucket
 - Jira
+- Bitbucket Pipelines
+- CI/CD
 
 ### Libraries and Frameworks
 
