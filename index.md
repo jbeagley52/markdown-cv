@@ -31,7 +31,7 @@ servicenow: jbeagley0596191a
 
 ## Summary
 
-Highly skilled and results-driven Salesforce Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in client-side scripting, business rules and Service Portal, along with a solid foundation in Git source control, Amazon Web Services, Salesforce, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging platform capabilities and integrations and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
+Highly skilled and results-driven Salesforce Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in Apex, Flows, and Lightning Web Components (LWC), along with a solid foundation in CI/CD, source control, Amazon Web Services, ServiceNow, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging platform capabilities and integrations and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
 
 ## Experience
 
@@ -129,22 +129,23 @@ _Michigan State University_
 - Regular Expressions
 
 ### Certifications
+- AWS Solutions Architect Associate
 - ServiceNow Certified Systems Administrator
 - ServiceNow Certified Application Developer
 
 ### Salesforce
 
-- **Salesforce Development:** Apex, Flows, Lightning Web Components (LWC), Visualforce
-- **Salesforce Administration:** Customisation, Configuration, Approval Processes
-- **Data Management:** Data Migration, Data Cleansing, Data Loader, Data Modeling
+- Apex, Flows, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
 
 ### Other Platforms and Tools
 
-- AWS Cloud Fundamentals
+- AWS
 - ServiceNow
 - Linux System Administration
 - Git/Github/GitLab/Bitbucket
 - Jira
+- Bitbucket Pipelines
+- CI/CD
 
 ### Libraries and Frameworks
 
