@@ -135,7 +135,7 @@ _Michigan State University_
 
 ### Salesforce
 
-- Apex, Flows, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
+- Apex, Flows, OmniStudio, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
 
 ### Other Platforms and Tools
 
