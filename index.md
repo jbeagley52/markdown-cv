@@ -20,13 +20,13 @@ servicenow: jbeagley0596191a
 |
 <i class="fa fa-phone"></i> <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/{{ page.github }}">{{ page.github }}</a>
+<i class="fa fa-github"></i> <a href="http://github.com/{{ page.github }}">GitHub</a>
 |
-<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{ page.linkedin }}/">{{ page.linkedin }}</a>
+<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{ page.linkedin }}/">LinkedIn</a>
 |
 <i class="fa fa-graduation-cap"></i> <a href="https://trailblazer.me/id/{{ page.trailblazer }}/">Trailblazer</a>
 |
-<i class="fa fa-graduation-cap"></i> <a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user={{ page.servicenow }}">ServiceNow Now Learning</a>
+<i class="fa fa-graduation-cap"></i> <a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user={{ page.servicenow }}">Now Learning</a>
 </div>
 
 ## Summary
@@ -135,7 +135,7 @@ _Michigan State University_
 
 ### Salesforce
 
-- Apex, Flows, Formulas, Validation Rules, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
+- Apex, Flows, Formulas, Validation Rules, OmniStudio, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
 
 ### Other Platforms and Tools
 
