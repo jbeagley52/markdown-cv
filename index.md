@@ -38,16 +38,16 @@ Highly skilled and results-driven Salesforce Developer with a proven track recor
 **Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
 
 - Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment at the Victorian Department of Education, focussing on maintaining and enhancing existing Salesforce applications.
-- Successfully resolved and managed over 400 tickets within a six-month period out of over 1000 tickets for all L2 Salesforce Support, surpassing the team average and providing timely solutions to complex issues to maintain smooth business operations.
-- Leveraged Apex and Flows to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving system administrator and platform team efficiency.
-- Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and other security-related configuration components to ensure data integrity and enforce proper access controls within the Salesforce platform.
+- Successfully resolved and managed over 400 tickets within a six-month period out of over 1000 tickets for all L2 Salesforce Support, surpassing the team average and providing timely solutions, resolving 42% of service requests on the same day raised and another 43% within 2-7 days.
+- Leveraged Apex and Flows to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving efficiency of administrator and platform deployment operations.
+- Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and profiles to ensure data integrity and enforce proper access controls within the Salesforce platform.
 - Collaborated with cross-functional teams, including administrators, stakeholders, and end users, to gather requirements and design solutions.
 - Created reports and dashboards to provide real-time insights into key performance metrics, enabling data-driven decision-making at various levels of the organisation.
 - Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency, specifically the release process and branching strategy for BAU releases.
 - Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities.
 - Developed and maintained documentation for BAU processes, including bug tracking, change management, and system enhancements, ensuring comprehensive knowledge transfer and smooth handover during team transitions.
 - Represented BAU team in Salesforce Centre of Excellence meetings, spearheading implementation of release guidelines with CI/CD best practices.  
-- Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 100 Trailhead badges, including 17 superbadges, while completing various modules and projects encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, data management, data models, and approval processes.
+- Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 200 Trailhead badges, including 17 superbadges, while completing various modules and projects encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, Data Cloud, Marketing Cloud, data management, data models, and approval processes.
 
 **ServiceNow NextGen Bootcamp Teaching Assistant** &ndash; e-Centric Innovations `2022 to 2023`
 
@@ -71,23 +71,22 @@ Highly skilled and results-driven Salesforce Developer with a proven track recor
 - Liaising with course coordinators and students
 - Creating lesson plans and course content -->
 
+**Branch Chair & Committee Member** &ndash; Australian Institute of Interpreters and Translators `2016 to 2021`
+
+- Led as Victorian Branch Chair for four years, overseeing multiple sub-committees and fostering effective collaboration amongst a highly culturally and linguistically diverse committee membership
+- Supervised organisation of National Conference in 2019 as Co-Chair of Organising Committee, hosting over 180 participants and 30 presenters
+- Conducted monthly meetings for the Victorian Branch
+- Collaborated with National Council and committee members to promote collaboration and alignment with organisational goals
+- Managed the professional development event team, ensuring seamless coordination and successful execution of programs
+- Supervised financial operations for the branch, ensuring accuracy and compliance with institute policies and legislative requirements
+- Coordinated nominations from the Victorian branch membership for national awards and fellows in recognition of members' contributions to the institute
+
 **Founder & Principal Translator** &ndash; Jonathan Beagley Language Services `2013 to 2021`
 
 - Established a successful freelance translation business from scratch, operating for nearly 10 years, with a diverse client base and a strong reputation for delivering high-quality translations.
 - Developed and maintained long-term relationships with clients, ensuring repeat business and a steady stream of projects.
-- Managed end-to-end translation projects, including client communication, project scoping, resource allocation, translation, editing, and final delivery, ensuring timely and accurate completion.
+- Managed end-to-end translation projects, including client communication, project scoping, resource allocation, translation, editing, and final delivery.
 - Specialised in medical and technical translations, demonstrating subject matter expertise and consistently meeting client expectations for terminology accuracy and cultural nuances.
-- Implemented effective marketing strategies, including online presence, networking, and referrals, to continuously attract new clients and expand the business.
-
-<!-- **Branch Chair & Committee Member** &ndash; AUSIT `2016 to 2021`
-
-- Served as Victorian Branch Chair for 4 years
-- Supervised organisation of National Conference in 2019 as Co-Chair of Organising Committee
-- Facilitated monthly meetings for Victorian Branch
-- Liaised with National Council and committee members
-- Created and presented seminars and webinars on ethics, technology and small business
-- Brainstormed ideas for professional development seminars
-- Coordinated event and conference organisation -->
 
 <!-- **Research Assistant** &ndash; Monash University `2015 to 2018`
 
@@ -135,7 +134,7 @@ _Michigan State University_
 
 ### Salesforce
 
-- Apex, Flows, OmniStudio, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
+- Apex, Flows, Formulas, Validation Rules, OmniStudio, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
 
 ### Other Platforms and Tools
 
