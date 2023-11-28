@@ -40,14 +40,14 @@ Highly skilled and results-driven Salesforce Developer with a proven track recor
 - Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment at the Victorian Department of Education, focussing on maintaining and enhancing existing Salesforce applications.
 - Successfully resolved and managed over 400 tickets within a six-month period out of over 1000 tickets for all L2 Salesforce Support, surpassing the team average and providing timely solutions to complex issues to maintain smooth business operations.
 - Leveraged Apex and Flows to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving system administrator and platform team efficiency.
-- Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and other security-related configuration components to ensure data integrity and enforce proper access controls within the Salesforce platform.
+- Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and other security-related configuration components to ensure data integrity and enforce proper access controls within the Salesforce platform by configuring user access and developing permission sets.
 - Collaborated with cross-functional teams, including administrators, stakeholders, and end users, to gather requirements and design solutions.
 - Created reports and dashboards to provide real-time insights into key performance metrics, enabling data-driven decision-making at various levels of the organisation.
 - Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency, specifically the release process and branching strategy for BAU releases.
 - Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities.
 - Developed and maintained documentation for BAU processes, including bug tracking, change management, and system enhancements, ensuring comprehensive knowledge transfer and smooth handover during team transitions.
 - Represented BAU team in Salesforce Centre of Excellence meetings, spearheading implementation of release guidelines with CI/CD best practices.  
-- Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 100 Trailhead badges, including 17 superbadges, while completing various modules and projects encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, data management, data models, and approval processes.
+- Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 200 Trailhead badges, including 17 superbadges, while completing various modules and projects encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, Data Cloud, Marketing Cloud, data management, data models, and approval processes.
 
 **ServiceNow NextGen Bootcamp Teaching Assistant** &ndash; e-Centric Innovations `2022 to 2023`
 
@@ -135,7 +135,7 @@ _Michigan State University_
 
 ### Salesforce
 
-- Apex, Flows, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
+- Apex, Flows, Formulas, Validation Rules, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
 
 ### Other Platforms and Tools
 
