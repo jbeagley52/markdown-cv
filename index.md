@@ -75,9 +75,8 @@ Highly skilled and results-driven Salesforce Developer with a proven track recor
 
 - Established a successful freelance translation business from scratch, operating for nearly 10 years, with a diverse client base and a strong reputation for delivering high-quality translations.
 - Developed and maintained long-term relationships with clients, ensuring repeat business and a steady stream of projects.
-- Managed end-to-end translation projects, including client communication, project scoping, resource allocation, translation, editing, and final delivery, ensuring timely and accurate completion.
+- Managed end-to-end translation projects, including client communication, project scoping, resource allocation, translation, editing, and final delivery.
 - Specialised in medical and technical translations, demonstrating subject matter expertise and consistently meeting client expectations for terminology accuracy and cultural nuances.
-- Implemented effective marketing strategies, including online presence, networking, and referrals, to continuously attract new clients and expand the business.
 
 <!-- **Branch Chair & Committee Member** &ndash; AUSIT `2016 to 2021`
 
