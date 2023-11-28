@@ -73,13 +73,13 @@ Highly skilled and results-driven Salesforce Developer with a proven track recor
 
 **Branch Chair & Committee Member** &ndash; Australian Institute of Interpreters and Translators `2016 to 2021`
 
-- Led as Victorian Branch Chair for four years, overseeing multiple sub-committees and fostering effective collaboration amongst a highly culturally and linguistically diverse committee membership
-- Supervised organisation of National Conference in 2019 as Co-Chair of Organising Committee, hosting over 180 participants and 30 presenters
-- Conducted monthly meetings for the Victorian Branch
-- Collaborated with National Council and committee members to promote collaboration and alignment with organisational goals
-- Managed the professional development event team, ensuring seamless coordination and successful execution of programs
-- Supervised financial operations for the branch, ensuring accuracy and compliance with institute policies and legislative requirements
-- Coordinated nominations from the Victorian branch membership for national awards and fellows in recognition of members' contributions to the institute
+- Led as Victorian Branch Chair for four years, overseeing multiple sub-committees and fostering effective collaboration amongst a highly culturally and linguistically diverse committee membership.
+- Supervised organisation of National Conference in 2019 as Co-Chair of Organising Committee, hosting over 180 participants and 30 presenters.
+- Conducted monthly meetings for the Victorian Branch.
+- Collaborated with National Council and committee members to promote collaboration and alignment with organisational goals.
+- Managed the professional development event team, ensuring seamless coordination and successful execution of programs.
+- Supervised financial operations for the branch, ensuring accuracy and compliance with institute policies and legislative requirements.
+- Coordinated nominations from the Victorian branch membership for national awards and fellows in recognition of members' contributions to the institute.
 
 **Founder & Principal Translator** &ndash; Jonathan Beagley Language Services `2013 to 2021`
 
