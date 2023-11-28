@@ -38,9 +38,9 @@ Highly skilled and results-driven Salesforce Developer with a proven track recor
 **Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
 
 - Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment at the Victorian Department of Education, focussing on maintaining and enhancing existing Salesforce applications.
-- Successfully resolved and managed over 400 tickets within a six-month period out of over 1000 tickets for all L2 Salesforce Support, surpassing the team average and providing timely solutions to complex issues to maintain smooth business operations.
-- Leveraged Apex and Flows to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving system administrator and platform team efficiency.
-- Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and other security-related configuration components to ensure data integrity and enforce proper access controls within the Salesforce platform by configuring user access and developing permission sets.
+- Successfully resolved and managed over 400 tickets within a six-month period out of over 1000 tickets for all L2 Salesforce Support, surpassing the team average and providing timely solutions, resolving 42% of service requests on the same day raised and another 43% within 2-7 days.
+- Leveraged Apex and Flows to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving efficiency of administrator and platform deployment operations.
+- Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and profiles to ensure data integrity and enforce proper access controls within the Salesforce platform.
 - Collaborated with cross-functional teams, including administrators, stakeholders, and end users, to gather requirements and design solutions.
 - Created reports and dashboards to provide real-time insights into key performance metrics, enabling data-driven decision-making at various levels of the organisation.
 - Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency, specifically the release process and branching strategy for BAU releases.
