@@ -131,7 +131,7 @@ _Michigan State University_
 
 - Apex, Flows, Formulas, Validation Rules, OmniStudio, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
 
-### Other Platforms and Tools
+### Platforms and Tools
 
 - AWS
 - ServiceNow
@@ -141,7 +141,7 @@ _Michigan State University_
 - Bitbucket Pipelines
 - CI/CD
 
-### Libraries and Frameworks
+### Miscellaneous
 
 React, Node, Express, JSON, YAML, jQuery, Pandas, Numpy, NLTK, SpaCy, WordPress, Jekyll, Liquid, MQTT
 
@@ -160,10 +160,11 @@ Strong attention to detail
 - ServiceNow Certified Systems Administrator
 - ServiceNow Certified Application Developer
 
-## Other Skills
+## Essential Traits
 
-- **Communication:** Cross-functional Collaboration, Stakeholder Engagement, User Support, Written & Verbal Communication, Public Speaking, Documentation
-- **Project Management Methodologies:** Agile/Scrum
+- **Cross-functional collaboration**
+- **Stakeholder engagement**
+- **Technical documentation**
 - **Problem solving**
 - **Attention to detail**
 - **Continuous learning**
