@@ -31,17 +31,17 @@ servicenow: jbeagley0596191a
 
 ## Summary
 
-Highly skilled and results-driven Salesforce Developer with a proven track record in optimising business processes, automating workflows, and delivering exceptional solutions. Offering expertise in Apex, Flows, and Lightning Web Components (LWC), along with a solid foundation in CI/CD, source control, Amazon Web Services, ServiceNow, and Agile/Scrum methodologies. Committed to driving organisational success by leveraging platform capabilities and integrations and delivering efficient, scalable, and user-centric solutions while fostering positive relationships with stakeholders.
+Accomplished, results-driven Salesforce Developer with a proven track record at e-Centric Innovations, resolving 650+ tickets, implementing critical automations, and seamlessly integrating updates for the Victorian Department of Education. Proven expertise in leading diverse teams, cross-functional collaboration, and application configuration and development. Offering a unique blend of technical prowess, leadership experience, and a commitment to innovation. Ready to bring this expertise to excel in the Senior Developer role.
 
 ## Experience
 
 **Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
 
 - Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment at the Victorian Department of Education, focussing on maintaining and enhancing existing Salesforce applications.
-- Successfully resolved and managed over 650 tickets during a ten month period out of nearly 2000 tickets for all L2 Salesforce Support, surpassing the team average and providing timely solutions, resolving 42% of all service requests on the same day and another 43% within 2-7 days.
+- Successfully resolved and managed over 650 tickets during a ten month period out of nearly 2000 tickets for all L2 Salesforce Support in a timely manner, resolving 42% of all service requests on the same day and another 43% within 2-7 days.
 - Leveraged Apex and Flows to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving efficiency of administrator and platform deployment operations.
 - Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and profiles to ensure data integrity and enforce proper access controls within the Salesforce platform.
-- Collaborated with cross-functional teams, including administrators, stakeholders, and end users, to gather requirements and design solutions.
+- Collaborated with cross-functional teams, including business analysts, stakeholders, and end users, to gather requirements and design solutions.
 - Created reports and dashboards to provide real-time insights into key performance metrics, enabling data-driven decision-making at various levels of the organisation.
 - Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency, specifically the release process and branching strategy for BAU releases.
 - Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities.
