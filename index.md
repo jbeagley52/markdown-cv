@@ -38,7 +38,7 @@ Accomplished, results-driven Salesforce Developer with a proven track record at 
 **Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
 
 - Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment at the Victorian Department of Education, focussing on maintaining and enhancing existing Salesforce applications.
-- Successfully resolved and managed over 650 tickets during a ten month period out of nearly 2000 tickets for all L2 Salesforce Support in a timely manner, resolving 42% of all service requests on the same day and another 43% within 2-7 days.
+- Successfully resolved and managed over 650 tickets during a ten-month period out of nearly 2000 tickets for all L2 Salesforce Support in a timely manner, resolving 42% of all service requests on the same day and another 43% within 2-7 days.
 - Leveraged Apex and Flows to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving efficiency of administrator and platform deployment operations.
 - Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and profiles to ensure data integrity and enforce proper access controls within the Salesforce platform.
 - Collaborated with cross-functional teams, including business analysts, stakeholders, and end users, to gather requirements and design solutions.
