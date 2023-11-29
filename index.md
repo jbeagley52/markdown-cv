@@ -38,7 +38,7 @@ Highly skilled and results-driven Salesforce Developer with a proven track recor
 **Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
 
 - Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment at the Victorian Department of Education, focussing on maintaining and enhancing existing Salesforce applications.
-- Successfully resolved and managed over 400 tickets within a six-month period out of over 1000 tickets for all L2 Salesforce Support, surpassing the team average and providing timely solutions, resolving 42% of service requests on the same day raised and another 43% within 2-7 days.
+- Successfully resolved and managed over 650 tickets during a ten month period out of nearly 2000 tickets for all L2 Salesforce Support, surpassing the team average and providing timely solutions, resolving 42% of all service requests on the same day and another 43% within 2-7 days.
 - Leveraged Apex and Flows to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving efficiency of administrator and platform deployment operations.
 - Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and profiles to ensure data integrity and enforce proper access controls within the Salesforce platform.
 - Collaborated with cross-functional teams, including administrators, stakeholders, and end users, to gather requirements and design solutions.
@@ -47,7 +47,7 @@ Highly skilled and results-driven Salesforce Developer with a proven track recor
 - Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities.
 - Developed and maintained documentation for BAU processes, including bug tracking, change management, and system enhancements, ensuring comprehensive knowledge transfer and smooth handover during team transitions.
 - Represented BAU team in Salesforce Centre of Excellence meetings, spearheading implementation of release guidelines with CI/CD best practices.  
-- Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 200 Trailhead badges, including 17 superbadges, while completing various modules and projects encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, Data Cloud, Marketing Cloud, data management, data models, and approval processes.
+- Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 200 Trailhead badges, including 18 superbadges, while completing various modules and projects encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, Data Cloud, Marketing Cloud, data management, data models, and approval processes.
 
 **ServiceNow NextGen Bootcamp Teaching Assistant** &ndash; e-Centric Innovations `2022 to 2023`
 
@@ -127,11 +127,6 @@ _Michigan State University_
 - Markdown
 - Regular Expressions
 
-### Certifications
-- AWS Solutions Architect Associate
-- ServiceNow Certified Systems Administrator
-- ServiceNow Certified Application Developer
-
 ### Salesforce
 
 - Apex, Flows, Formulas, Validation Rules, OmniStudio, Lightning Web Components (LWC), Visualforce, Approval Processes, Data Management, Identity and Access Management
@@ -159,6 +154,11 @@ Research |
 Intercultural communication |
 Strong attention to detail
 -->
+
+## Certifications
+- AWS Solutions Architect Associate
+- ServiceNow Certified Systems Administrator
+- ServiceNow Certified Application Developer
 
 ## Other Skills
 
