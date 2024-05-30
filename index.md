@@ -49,7 +49,7 @@ Accomplished, results-driven Salesforce Developer with a proven track record at 
 
 **Salesforce Developer** &ndash; e-Centric Innovations `2023 to 2024`
 
-- Successfully resolved and managed over 650 tickets during a ten month period out of nearly 2000 tickets for all L2 Salesforce Support in a timely manner, resolving 42% of all service requests on the same day and another 43% within 2-7 days.
+- Successfully resolved and managed over 650 tickets during a ten-month period out of nearly 2000 tickets for all L2 Salesforce Support in a timely manner, resolving 42% of all service requests on the same day and another 43% within 2-7 days.
 - Created reports and dashboards to provide real-time insights into key performance metrics, enabling data-driven decision-making at various levels of the organisation.
 - Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency, specifically the release process and branching strategy for BAU releases.
 - Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities.
