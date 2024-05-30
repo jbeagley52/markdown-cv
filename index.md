@@ -31,7 +31,7 @@ servicenow: jbeagley0596191a
 
 ## Summary
 
-Accomplished, results-driven Salesforce Developer with a proven track record at e-Centric Innovations, resolving 650+ tickets, implementing critical automations, and seamlessly integrating updates for the Victorian Department of Education. Proven expertise in leading diverse teams, cross-functional collaboration, and application configuration and development. Offering a unique blend of technical prowess, leadership experience, and a commitment to innovation. Ready to bring this expertise to excel in the Senior Developer role.
+Accomplished, results-driven Salesforce Developer with a proven track record implementing critical automations and seamlessly integrating updates for the Victorian Department of Education. Proven expertise in leading diverse teams, cross-functional collaboration, and application configuration and development. Offering a unique blend of stakeholder management, technical prowess, leadership experience, and a commitment to design and innovation.
 
 ## Experience
 
