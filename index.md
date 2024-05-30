@@ -35,19 +35,27 @@ Accomplished, results-driven Salesforce Developer with a proven track record at 
 
 ## Experience
 
-**Salesforce Developer** &ndash; e-Centric Innovations `2023 to Present`
-
+**Software Developer, Salesforce** &ndash; Victorian Department of Education `2024 to Present`
 - Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment at the Victorian Department of Education, focussing on maintaining and enhancing existing Salesforce applications.
-- Successfully resolved and managed over 650 tickets during a ten month period out of nearly 2000 tickets for all L2 Salesforce Support in a timely manner, resolving 42% of all service requests on the same day and another 43% within 2-7 days.
 - Leveraged Apex and Flows to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving efficiency of administrator and platform deployment operations.
 - Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and profiles to ensure data integrity and enforce proper access controls within the Salesforce platform.
 - Collaborated with cross-functional teams, including business analysts, stakeholders, and end users, to gather requirements and design solutions.
+- Led development of enhancements and fixes for Salesforce applications in BAU.
+- Coordinated BAU handover with internal and external stakeholders to ensure knowledge transfer.
+- Proactively identified and resolved technical issues, preventing larger system failures.
+- Ensured best practices by attending the Salesforce Best Practices and Solutions forum on a weekly basis, keeping up-to-date with the latest industry standards.
+- Applied insights from these forums to optimise system configurations and workflows, resulting in improved efficiency and user satisfaction.
+- Actively contributed to team knowledge sharing by disseminating key takeaways from forums and training sessions.
+
+**Salesforce Developer** &ndash; e-Centric Innovations `2023 to 2024`
+
+- Successfully resolved and managed over 650 tickets during a ten month period out of nearly 2000 tickets for all L2 Salesforce Support in a timely manner, resolving 42% of all service requests on the same day and another 43% within 2-7 days.
 - Created reports and dashboards to provide real-time insights into key performance metrics, enabling data-driven decision-making at various levels of the organisation.
 - Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency, specifically the release process and branching strategy for BAU releases.
 - Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities.
 - Developed and maintained documentation for BAU processes, including bug tracking, change management, and system enhancements, ensuring comprehensive knowledge transfer and smooth handover during team transitions.
 - Represented BAU team in Salesforce Centre of Excellence meetings, spearheading implementation of release guidelines with CI/CD best practices.  
-- Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 200 Trailhead badges, including 18 superbadges, while completing various modules and projects encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, Data Cloud, Marketing Cloud, data management, data models, and approval processes.
+- Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 200 Trailhead badges, including 29 superbadges, while completing various modules and projects encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, Data Cloud, Marketing Cloud, data management, data models, and approval processes.
 
 **ServiceNow NextGen Bootcamp Teaching Assistant** &ndash; e-Centric Innovations `2022 to 2023`
 
