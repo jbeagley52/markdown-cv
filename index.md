@@ -2,7 +2,6 @@
 layout: cv
 title: Jonathan Beagley
 display_projects: false
-address: 5/844 Pascoe Vale Road, Glenroy VIC 3046
 email: jonathan.beagley@gmail.com
 phone: +61 450 633 358
 github: jbeagley52
@@ -14,8 +13,6 @@ servicenow: jbeagley0596191a
 # {{ page.title }}
 
 <div id="webaddress">
-<i class="fa fa-globe"></i> {{ page.address }}
-<br />
 <i class="fa fa-envelope"></i> <a href="mailto:{{ page.email }}">{{ page.email }}</a>
 |
 <i class="fa fa-phone"></i> <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
@@ -31,13 +28,12 @@ servicenow: jbeagley0596191a
 
 ## Summary
 
-Accomplished, results-driven Salesforce Developer with a proven track record implementing critical automations and seamlessly integrating updates for the Victorian Department of Education. Proven expertise in leading diverse teams, cross-functional collaboration, and application configuration and development. Offering a unique blend of stakeholder management, technical prowess, leadership experience, and a commitment to design and innovation.
+2x Certified Strategic Senior Salesforce Developer with expertise in implementing and maintaining critical automations and seamlessly integrating updates for the Victorian Department of Education. Expertise in leading diverse teams, cross-functional collaboration, and declarative and programmatic development on the Salesforce platform. Proven track record of driving platform ROI through innovative solutions and robust governance within a complex Salesforce ecosystem within the Department of Education. Offering a unique blend of stakeholder management, technical prowess, leadership experience, and a commitment to design and innovation.
 
 ## Experience
 
-**Software Developer, Salesforce** &ndash; Victorian Department of Education `2024 to Present`
-- Demonstrated expertise in Salesforce development while working in a Business as Usual (BAU) environment at the Victorian Department of Education, focussing on maintaining and enhancing existing Salesforce applications.
-- Leveraged Apex and Flows to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving efficiency of administrator and platform deployment operations.
+**Software Developer, Salesforce** &ndash; Victorian Department of Education `April 2024 to Present`
+- Leveraged both programmatic and declarative solutions to implement bug fixes, minor enhancements, automate critical business processes, and carry out routine maintenance tasks, ensuring the stability and optimal performance of Salesforce apps as well as improving efficiency of administrator and platform deployment operations.
 - Applied knowledge of Salesforce objects, flows, sharing settings, permission sets, and profiles to ensure data integrity and enforce proper access controls within the Salesforce platform.
 - Collaborated with cross-functional teams, including business analysts, stakeholders, and end users, to gather requirements and design solutions.
 - Led development of enhancements and fixes for Salesforce applications in BAU.
@@ -72,13 +68,6 @@ Accomplished, results-driven Salesforce Developer with a proven track record imp
 - Acquired ability to manage and maintain ServiceNow instances.
 - Developed knowledge of ServiceNow IT Service Management (ITSM) processes, including incident management, problem management, and change management.
 
-<!-- **Sessional Translation Teacher** &ndash; RMIT University `2019 to 2022`
-
-- Maintaining and updating course on LMS
-- Marking and providing constructive feedback
-- Liaising with course coordinators and students
-- Creating lesson plans and course content -->
-
 **Branch Chair & Committee Member** &ndash; Australian Institute of Interpreters and Translators `2016 to 2021`
 
 - Led as Victorian Branch Chair for four years, overseeing multiple sub-committees and fostering effective collaboration amongst a highly culturally and linguistically diverse committee membership.
@@ -95,13 +84,6 @@ Accomplished, results-driven Salesforce Developer with a proven track record imp
 - Developed and maintained long-term relationships with clients, ensuring repeat business and a steady stream of projects.
 - Managed end-to-end translation projects, including client communication, project scoping, resource allocation, translation, editing, and final delivery.
 - Specialised in medical and technical translations, demonstrating subject matter expertise and consistently meeting client expectations for terminology accuracy and cultural nuances.
-
-<!-- **Research Assistant** &ndash; Monash University `2015 to 2018`
-
-- Drafted whitepaper with improvements to interpreter assessment in Australia
-- Conducted confidential interviews with various stakeholders
-- Quantitative data analysis and reporting (Excel)
-- Transcribed interviews -->
 
 ## Education
 
