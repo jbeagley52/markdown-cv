@@ -2,7 +2,6 @@
 layout: cv
 title: Jonathan Beagley
 display_projects: false
-address: 5/844 Pascoe Vale Road, Glenroy VIC 3046
 email: jonathan.beagley@gmail.com
 phone: +61 450 633 358
 github: jbeagley52
@@ -14,8 +13,6 @@ servicenow: jbeagley0596191a
 # {{ page.title }}
 
 <div id="webaddress">
-<i class="fa fa-globe"></i> {{ page.address }}
-<br />
 <i class="fa fa-envelope"></i> <a href="mailto:{{ page.email }}">{{ page.email }}</a>
 |
 <i class="fa fa-phone"></i> <a href="tel:{{ page.phone }}">{{ page.phone }}</a>
