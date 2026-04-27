@@ -1,0 +1,345 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+
+ul {
+  padding: 0;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* end of reset */
+
+/* font import */
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root {
+    --primary-color: #2c3e50;    /* Professional Dark Blue/Grey */
+    --secondary-color: #2980B9;     /* Subtle Blue Accent */
+    --accent-color: #1b6ca8;  /* Slate Blue Grey */
+    --text-color: #333333;
+    --light-grey: #f8f9fa;
+    --border-color: #eeeeee;
+}
+
+/* faux Wikipedia logo font */
+.fa-wikipedia:before {
+  font-family: "Roboto", "Times New Roman", Times, serif;
+  font-weight: 400;
+  content: "W";
+}
+
+body {
+  font: normal normal 400;
+  font-size: 14px;
+  line-height: 1.5em;
+  font-family: "Roboto", sans-serif;
+  color: var(--text-color);
+  padding: 2.5em;
+}
+
+p {
+  /* position: relative; */
+  /* left: 25%; */
+  margin-bottom: 0;
+  margin-right: 0;
+  /* width: 65%; */
+}
+
+ul + p {
+  padding-top: 0.4em;
+}
+
+code {
+  font: normal normal;
+  font-size: 90%;
+  color: var(--text-color);
+  font-weight: 700;
+}
+
+ul {
+  margin-bottom: 0em;
+}
+
+li {
+  break-inside: avoid;
+  list-style-type: disc;
+  margin-left: 1em;
+}
+
+a {
+  color: inherit;
+}
+
+#webaddress {
+  margin-top: 0.8em;
+  color: var(--secondary-color);
+  font-size: 90%;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  text-align: center;
+  align-self: center;
+}
+
+#webaddress a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+em {
+  /*font-weight: bold; */
+  font-style: italic;
+}
+
+strong {
+  font-weight: 500;
+  color: var(--accent-color);
+}
+
+#address {
+  display: none;
+}
+
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 800;
+  font-family: "Roboto", Verdana, sans-serif;
+}
+
+h1, 
+header {
+  text-align: center;
+  align-self: center;
+  color: var(--primary-color);
+  font-size: 3em;
+  line-height: 1em;
+  text-shadow: 1px 1px #d5cdca, 1px 2px #d5cdca;
+}
+
+h1 + p {
+  /*subtitle*/
+  color: var(--accent-color);
+  text-align: center;
+  align-self: center;
+  font-style: italic;
+  font-size: 110%;
+  line-height: 2em;
+  margin-bottom: 0em !important;
+  padding-bottom: 0;
+}
+
+h2 {
+  font-size: 1.1em;
+  color: var(--secondary-color);
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 1.1em;
+}
+
+h3 {
+  font-size: 1em;
+  text-align: left;
+  color: var(--text-color);
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between; /* This does the heavy lifting */
+  align-items: baseline;
+}
+
+ul {
+    margin-bottom: 0.6em;
+}
+
+/* Accessibility & Print Tweaks */
+@media print {
+    body {
+        /* grid-template-columns: 20% 80%;  */
+        /* Adjust for paper margins */
+        padding: 0;
+    }
+}
+
+/* This hack fixes scrollable on x for tablets */
+@media only screen and (max-width: 1024px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+
+/* Mobile styling, starting at iPad portrait size */
+@media only screen and (max-width: 768px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  p,
+  ul,
+  code,
+  #webaddress {
+    position: static;
+    width: 100%;
+    text-align: left;
+  }
+
+  code {
+    width: auto;
+  }
+
+  h1 {
+    margin-bottom: 0.1em;
+  }
+
+  h2 {
+    margin-top: 1em;
+    text-align: left;
+    border-right: none;
+    /* border-bottom: 2px solid #1f487e; */
+    width: 100%;
+  }
+
+  body {
+  	margin-top: 0;
+  	margin-left: 0;
+    padding: 1em;
+  }
+
+  p code {
+    position: static;
+    margin-right: auto;
+    display: block;
+    text-align: left;
+  }
+}
