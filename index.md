@@ -25,13 +25,11 @@ subtitle: Senior Salesforce Developer
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{ page.linkedin }}/">LinkedIn</a>
 |
 <i class="fa fa-graduation-cap"></i> <a href="https://trailblazer.me/id/{{ page.trailblazer }}/">Trailblazer</a>
-|
-<i class="fa fa-graduation-cap"></i> <a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user={{ page.servicenow }}">Now Learning</a>
 </div>
 
 ## Summary
 
-2x Certified Senior Salesforce Developer with a passion for improving service delivery for the Victorian public through technology. Expertise in leading diverse teams, cross-functional collaboration, and declarative and programmatic development on the Salesforce platform. Proven track record of driving platform ROI through innovative solutions and robust governance within a complex Salesforce ecosystem within the Department of Education. Offering a unique blend of technical prowess, stakeholder management, leadership experience, and a commitment to design and innovation.
+Certified Senior Salesforce Developer with a passion for improving service delivery for the Victorian public through technology. Expertise in leading diverse teams, cross-functional collaboration, and declarative and programmatic development on the Salesforce platform. Proven track record of driving platform ROI through innovative solutions and robust governance within a complex Salesforce ecosystem within the Department of Education. Offering a unique blend of technical prowess, stakeholder management, leadership experience, and a commitment to design and innovation.
 
 ## Experience
 
@@ -100,12 +98,10 @@ subtitle: Senior Salesforce Developer
 ## Education
 
 ### Master in Interpreting and Translation Studies `2015`
-_Monash University_
-High Distinction
+_Monash University_ &ndash; High Distinction
 
 ### Grad. Dip. in Linguistics and Computer Science `2013`
-_Université de Bordeaux 3_
-Distinction
+_Université de Bordeaux 3_ &ndash; Distinction
 
 ### Bachelor of Arts in French `2011`
 _Michigan State University_
