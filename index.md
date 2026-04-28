@@ -60,7 +60,7 @@ Certified Senior Salesforce Developer with a passion for improving service deliv
 - Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency, specifically the release process and branching strategy for BAU releases.
 - Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities.
 - Developed and maintained documentation for BAU processes, including bug tracking, change management, and system enhancements, ensuring comprehensive knowledge transfer and smooth handover during team transitions.
-- Represented BAU team in Salesforce Centre of Excellence meetings at Department of Education, spearheading implementation of DevOps release guidelines with CI/CD best practices.
+- Represented BAU team in Salesforce Best Practices Forum meetings at Department of Education, spearheading implementation of DevOps release guidelines with CI/CD best practices.
 - Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 200 Trailhead badges encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, Data Cloud, Marketing Cloud, data management, data models, and approval processes.
 
 ### ServiceNow NextGen Bootcamp Teaching Assistant &ndash; e-Centric Innovations `2022 to 2023`
