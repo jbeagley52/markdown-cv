@@ -178,7 +178,7 @@ ul + p {
 
 code {
   font: normal normal;
-  font-size: 90%;
+  font-size: 100%;
   color: var(--text-color);
   font-weight: 700;
 }

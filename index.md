@@ -25,13 +25,11 @@ subtitle: Senior Salesforce Developer
 <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/{{ page.linkedin }}/">LinkedIn</a>
 |
 <i class="fa fa-graduation-cap"></i> <a href="https://trailblazer.me/id/{{ page.trailblazer }}/">Trailblazer</a>
-|
-<i class="fa fa-graduation-cap"></i> <a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user={{ page.servicenow }}">Now Learning</a>
 </div>
 
 ## Summary
 
-2x Certified Senior Salesforce Developer with a passion for improving service delivery for the Victorian public through technology. Expertise in leading diverse teams, cross-functional collaboration, and declarative and programmatic development on the Salesforce platform. Proven track record of driving platform ROI through innovative solutions and robust governance within a complex Salesforce ecosystem within the Department of Education. Offering a unique blend of technical prowess, stakeholder management, leadership experience, and a commitment to design and innovation.
+Certified Senior Salesforce Developer with a passion for improving service delivery for the Victorian public through technology. Expertise in leading diverse teams, cross-functional collaboration, and declarative and programmatic development on the Salesforce platform. Proven track record of driving platform ROI through innovative solutions and robust governance within a complex Salesforce ecosystem within the Department of Education. Offering a unique blend of technical prowess, stakeholder management, leadership experience, and a commitment to design and innovation.
 
 ## Experience
 
@@ -41,28 +39,29 @@ subtitle: Senior Salesforce Developer
 - Engineered a Salesforce REST API integration with OwnBackup as a proof of concept, leveraging Apex and Named Credentials for streamlined authentication and secure callouts.
 - Collaborated with cross-functional teams, including business analysts, integration service teams, stakeholders, and end users, to gather requirements, understand problems, and design scalable solutions.
 - Coordinated service transition and engaged in technical handovers, ensuring a robust knowledge base for ongoing platform service delivery in a highly complex, multi-org Salesforce environment.
-- Developed and codified technical documentation to ensure maintainability of software solutions and improve resolution time of technical issues.
+- Developed, codified, and refined technical documentation (such as configuration guides, process documents, change request forms, production migration instructions documents) to ensure proper governance of the software development lifecycle and improve resolution time of technical issues.
 - Proactively identified and resolved technical issues to ensure platform stability for critical community services.
 - Ensured best practices by regularly engaging with and disseminating knowledge within the Salesforce Technical Discussions forum, keeping up-to-date with the latest industry standards and Salesforce updates.
 - Optimised system configurations to reduce manual processing time, directly contributing to higher platform ROI and improved operational efficiency for the business unit.
 - Developed trusted relationships with multiple business areas by communicating technical issues and solutions to senior staff honestly and impartially.
-- Extracted and manipulated large-scale datasets (2+ million records) with Salesforce Inspector, Data Loader and Excel, utilising SOQL, advanced Excel functions, and validation to maintain a high standard of data hygiene, reducing errors and ensuring accuracy and cleanliness prior to system ingestion.
+- Managed and resolved stakeholder concerns clearly and effectively.
+- Extracted and manipulated large-scale datasets (3+ million records) with Salesforce Inspector, Data Loader, Bulk API V2, and Excel, leveraging SOQL, advanced Excel functions, and validation to maintain a high standard of data hygiene, reducing errors and ensuring accuracy and cleanliness prior to system ingestion.
 - Reduced deployment risk and ensured compliance with department policies governing throughout the software development lifecycle through the use of version control and CI/CD pipelines in both Bitbucket and Azure DevOps as well as stringent Peer Review workflows, delivering secure, high-quality solutions consistently.
 - Applied knowledge of modern JavaScript frameworks (including Lightning Web Components and React) to maintain and enhance Salesforce Experience Cloud solutions, ensuring components met business requirements and departmental performance standards.
 - Drove end-to-end service delivery of high-impact Salesforce enhancements through rapid development cycles, managing the transition from development to production while ensuring alignment with departmental governance and security standards.
 - Leveraged declarative expertise to maintain and extend components, focussing on Queues, Email Templates, and Flows to support complex department services and communication processes.
-- Partnered with delivery teams in an Agile environment to provide rapid enhancements through 1-2 week sprints; primarily utilised declarative tools for business logic while providing targeted Apex support for complex backend requirements.
+- Partnered with delivery teams in an Agile environment to provide rapid enhancements through 1-2 week sprints; primarily utilised declarative tools for business logic while developing targeted Apex support for complex backend requirements.
 - Ensured ICT service continuity by performing root cause analysis on critical Salesforce issues, reducing system downtime and maintaining high availability for essential department services.
-- Optimised user experience and compliance for Experience Cloud solutions by implementing WCAG 2.1 AA.
+- Optimised user experience and compliance for Experience Cloud solutions through adhering to WCAG 2.1 AA guidelines.
 
 ### Salesforce Developer &ndash; e-Centric Innovations `2023 to 2024`
 
-- Successfully resolved and managed over 650 tickets during a ten-month period out of nearly 2000 tickets for all L2 Salesforce Support in a timely manner, resolving 42% of all service requests on the same day and another 43% within 2-7 days, enhancing end-user service experience.
+- Successfully resolved and managed over 650 tickets during a ten-month period out of nearly 2000 tickets for all L2 Salesforce Support in a timely manner, resolving 42% of all service requests on the same day, enhancing end-user service experience.
 - Created reports and dashboards to provide real-time insights into key performance metrics, enabling data-driven decision-making at various levels of the organisation.
 - Proactively identified areas for process and system optimisation and recommended innovative solutions to streamline operations and enhance overall BAU efficiency, specifically the release process and branching strategy for BAU releases.
 - Played a key role in system upgrades and updates, ensuring seamless integration and minimal disruption to user workflows during BAU activities.
 - Developed and maintained documentation for BAU processes, including bug tracking, change management, and system enhancements, ensuring comprehensive knowledge transfer and smooth handover during team transitions.
-- Represented BAU team in Salesforce Centre of Excellence meetings at Department of Education, spearheading implementation of DevOps release guidelines with CI/CD best practices.
+- Represented BAU team in Salesforce Best Practices Forum meetings at Department of Education, spearheading implementation of DevOps release guidelines with CI/CD best practices.
 - Demonstrated a strong commitment to continuous learning and staying up-to-date with the latest Salesforce technologies and best practices, earning over 200 Trailhead badges encompassing Apex, Flows, LWC, Lightning Experience, Vlocity OmniStudio, Data Cloud, Marketing Cloud, data management, data models, and approval processes.
 
 ### ServiceNow NextGen Bootcamp Teaching Assistant &ndash; e-Centric Innovations `2022 to 2023`
@@ -100,12 +99,10 @@ subtitle: Senior Salesforce Developer
 ## Education
 
 ### Master in Interpreting and Translation Studies `2015`
-_Monash University_
-High Distinction
+_Monash University_ &ndash; High Distinction
 
 ### Grad. Dip. in Linguistics and Computer Science `2013`
-_Université de Bordeaux 3_
-Distinction
+_Université de Bordeaux 3_ &ndash; Distinction
 
 ### Bachelor of Arts in French `2011`
 _Michigan State University_
@@ -140,6 +137,7 @@ _Michigan State University_
 - Linux System Administration
 - Git/Github/GitLab/Bitbucket
 - Jira
+- Confluence
 - Bitbucket Pipelines/Azure DevOps
 - CI/CD
 
@@ -149,7 +147,7 @@ React, Node, Express, JSON, YAML, Jekyll, Version Control, Excel (Advanced)
 
 ## Certifications
 - Salesforce Certified Platform App Builder
-- Salesforce Certified Platform Developer 1
+- Salesforce Certified Platform Developer (formerly Platform Developer 1)
 - AWS Solutions Architect Associate
 - ServiceNow Certified Systems Administrator
 - ServiceNow Certified Application Developer
