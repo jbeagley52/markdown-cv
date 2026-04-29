@@ -41,10 +41,9 @@ Certified Senior Salesforce Developer with a passion for improving service deliv
 - Coordinated service transition and engaged in technical handovers, ensuring a robust knowledge base for ongoing platform service delivery in a highly complex, multi-org Salesforce environment.
 - Developed, codified, and refined technical documentation (such as configuration guides, process documents, change request forms, production migration instructions documents) to ensure proper governance of the software development lifecycle and improve resolution time of technical issues.
 - Proactively identified and resolved technical issues to ensure platform stability for critical community services.
-- Ensured best practices by regularly engaging with and disseminating knowledge within the Salesforce Technical Discussions forum, keeping up-to-date with the latest industry standards and Salesforce updates.
+- Ensured best practices by regularly engaging with and disseminating knowledge within the DE Salesforce Centre of Excellence, keeping up-to-date with the latest industry standards and Salesforce updates.
 - Optimised system configurations to reduce manual processing time, directly contributing to higher platform ROI and improved operational efficiency for the business unit.
-- Developed trusted relationships with multiple business areas by communicating technical issues and solutions to senior staff honestly and impartially.
-- Managed and resolved stakeholder concerns clearly and effectively.
+- Developed trusted relationships with multiple business areas by communicating technical issues and solutions to senior staff clearly, effectively, and impartially.
 - Extracted and manipulated large-scale datasets (3+ million records) with Salesforce Inspector, Data Loader, Bulk API V2, and Excel, leveraging SOQL, advanced Excel functions, and validation to maintain a high standard of data hygiene, reducing errors and ensuring accuracy and cleanliness prior to system ingestion.
 - Reduced deployment risk and ensured compliance with department policies governing throughout the software development lifecycle through the use of version control and CI/CD pipelines in both Bitbucket and Azure DevOps as well as stringent Peer Review workflows, delivering secure, high-quality solutions consistently.
 - Applied knowledge of modern JavaScript frameworks (including Lightning Web Components and React) to maintain and enhance Salesforce Experience Cloud solutions, ensuring components met business requirements and departmental performance standards.
